@@ -34,5 +34,5 @@
 
 -------------------------------------------------------
 
-<sup>*1</sup> Really love it
+<sup>*1</sup> Really love it  
 <sup>*2</sup> Things that I...
