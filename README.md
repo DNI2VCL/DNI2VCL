@@ -43,7 +43,7 @@ Discord: DNI2_VCL#6079
 </p><br>
 
 -------------------------------------------------------
-##### Some random text:
+##### some random text:
 > nebeprisikiškiakopūsteliaujantiems (vienas iš ilgiausių žodžių lietuvių kalboje(one of longest words in Lithuanian.))      
 
 ##### meanings of 'cryptic' words:
